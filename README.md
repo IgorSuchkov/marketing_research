@@ -1,1 +1,7 @@
-# marketing_research
+# Marketing research
+Despite huge investments in advertising, the company has been losing money for the past few months.
+# Task
+- Perform data analysis
+- Conduct marketing research
+- Estimate the return on advertising
+- Help the company grow.
